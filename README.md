@@ -63,6 +63,7 @@ http://localhost:8080/swagger-ui.html
 
 ### **APIs**
 
+All add query results returned an Object. For the get end-points these Object's ids can be used.
 
 #### **1-Customer**
 
