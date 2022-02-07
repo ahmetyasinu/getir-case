@@ -25,7 +25,7 @@ Postman requests are prepared and placed in 'resources' folder (getir-case/src/m
 -------------------------------------
 
 #### **Testing**
--Integration Tests for each end-point and repository classes
+-Integration Tests for each end-point and repository classes (should be run with localhost configuration embedded in application.properties)
 
 -Unit Tests for each service classes
 
