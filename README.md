@@ -4,7 +4,8 @@ ReadingIsGood is an online books retail firm which operates only on the Internet
 target of ReadingIsGood is to deliver books from its one centralized warehouse to their
 customers within the same day.
 
-In order to run this application, Docker should be ran with 'docker compose up' command.
+In order to run this application, Docker should be build with 'docker-compose build' and then run with 'docker-compose up' commands. (In case of any errors maven clean install can be executed)
+
 Before starting to try the end points, token should be generated and added as a Header in the Postman requests.
 Postman requests are prepared and placed in 'resources' folder (getir-case/src/main/resources/postman).
 
