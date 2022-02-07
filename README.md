@@ -6,7 +6,7 @@ customers within the same day.
 
 In order to run this application, Docker should be ran with 'docker compose up' command.
 Before starting to try the end points, token should be generated and added as a Header in the Postman requests.
-Postman requests are prepared and placed in 'resources' folder (reading-is-good/src/main/resources/postman).
+Postman requests are prepared and placed in 'resources' folder (getir-case/src/main/resources/postman).
 
 -------------------------------------
 
