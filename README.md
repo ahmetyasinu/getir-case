@@ -57,6 +57,7 @@ Reading is Good
 
 http://localhost:8080/swagger-ui.html
 
+![image](https://github.com/cavlanece/getir-case/blob/master/swagger.PNG)
 -------------------------------------
 
 ### **APIs**
