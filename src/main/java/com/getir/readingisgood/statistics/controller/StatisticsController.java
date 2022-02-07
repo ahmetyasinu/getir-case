@@ -18,7 +18,7 @@ import java.util.stream.Collectors;
 @AllArgsConstructor
 public class StatisticsController {
 
-    private StatisticsService statisticsService;
+    private final StatisticsService statisticsService;
 
     @GetMapping(value = "/getMonthlyStatistics")
     public ResponseEntity<List <StatisticDetailsDTO>> getMonthlyStatistics(@RequestParam String customerId) {
