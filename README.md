@@ -11,7 +11,7 @@ Postman requests are prepared and placed in 'resources' folder (getir-case/src/m
 
 -------------------------------------
 
-#### **Used Technologies**
+#### **Technologies**
 -Java 11
 
 -SpringBoot
